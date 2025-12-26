@@ -1,0 +1,6 @@
+streamlit
+openai
+kerykeion
+pyswisseph
+lunar-python
+pytz
